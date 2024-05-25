@@ -1,0 +1,762 @@
+.dashboard-umkm-child {
+    position: absolute;
+    top: 190px;
+    left: 67px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1322px;
+    height: 93px;
+}
+.dashboard-umkm-item {
+    position: absolute;
+    top: 363px;
+    left: 67px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1322px;
+    height: 758px;
+}
+.dashboard-umkm-inner {
+    position: absolute;
+    top: 444px;
+    left: 105px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1233px;
+    height: 125px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 215px;
+    left: 85px;
+    border-radius: 10px;
+    border: 1px solid #818080;
+    box-sizing: border-box;
+    width: 1054px;
+    height: 43px;
+}
+.search-icon {
+    position: absolute;
+    top: 226px;
+    left: 102px;
+    width: 22px;
+    height: 22px;
+    object-fit: cover;
+}
+.cari-produk {
+    position: absolute;
+    top: 228px;
+    left: 129px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    display: inline-block;
+    width: 141px;
+}
+.dashboard-umkm-child1 {
+    position: absolute;
+    top: 215px;
+    left: 1172px;
+    border-radius: 5px;
+    background-color: #ff8c00;
+    border: 1px solid #818080;
+    box-sizing: border-box;
+    width: 194px;
+    height: 43px;
+    cursor: pointer;
+}
+.dashboard-umkm-child2 {
+    position: absolute;
+    top: 586px;
+    left: 105px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1233px;
+    height: 125px;
+}
+.dashboard-umkm-child3 {
+    position: absolute;
+    top: 728px;
+    left: 105px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1233px;
+    height: 125px;
+}
+.dashboard-umkm-child4 {
+    position: absolute;
+    top: 870px;
+    left: 105px;
+    border-radius: 10px;
+    border: 1px solid #ff8c00;
+    box-sizing: border-box;
+    width: 1233px;
+    height: 125px;
+}
+.produk {
+    position: absolute;
+    top: 385px;
+    left: 105px;
+    display: inline-block;
+    font-family: Montserrat;
+    width: 83px;
+    height: 28px;
+}
+.kategori {
+    position: absolute;
+    top: 380px;
+    left: 636px;
+    display: inline-block;
+    font-family: Montserrat;
+    width: 100px;
+    height: 28px;
+}
+.harga-jual {
+    position: absolute;
+    top: 385px;
+    left: 1005px;
+    display: inline-block;
+    font-family: Montserrat;
+    width: 123px;
+    height: 28px;
+}
+.dashboard-umkm-child5 {
+    position: absolute;
+    top: 1167px;
+    left: 1130px;
+    border-radius: 10px;
+    background-color: #ff8c00;
+    width: 208px;
+    height: 69px;
+    cursor: pointer;
+}
+.simpan {
+    position: absolute;
+    top: 1187px;
+    left: 1137px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Montserrat;
+    color: #fff;
+    display: inline-block;
+    width: 194px;
+}
+.unggah-produk {
+    position: absolute;
+    top: 227px;
+    left: 1161px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Montserrat;
+    color: #fff;
+    display: inline-block;
+    width: 216px;
+}
+.image-51-icon {
+    position: absolute;
+    top: 466px;
+    left: 115px;
+    border-radius: 10px;
+    width: 146px;
+    height: 82px;
+    object-fit: cover;
+}
+.bika-ambon-rian {
+    position: absolute;
+    top: 490.81px;
+    left: calc(50% - 459px);
+    display: inline-block;
+    width: 180px;
+    height: 32.3px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.makanan-ringan {
+    position: absolute;
+    top: 491.81px;
+    left: calc(50% - 124px);
+    display: inline-block;
+    width: 180px;
+    height: 32.3px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.rp15000-rp50000 {
+    position: absolute;
+    top: 489.99px;
+    left: calc(50% + 237px);
+    display: inline-block;
+    width: 220.1px;
+    height: 32.3px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.edit {
+    position: absolute;
+    top: 489.36px;
+    left: calc(50% + 508px);
+    color: #ff8c00;
+    display: inline-block;
+    width: 81.4px;
+    height: 32.3px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+    cursor: pointer;
+}
+.dasboard-umkm {
+    position: absolute;
+    top: 106px;
+    left: 540px;
+    font-size: 32px;
+    display: inline-block;
+    font-family: Montserrat;
+    color: #ff8c00;
+    width: 292px;
+    height: 60px;
+}
+.frame-child {
+    position: absolute;
+    top: -26px;
+    left: -421px;
+    background-color: #ff8c00;
+    width: 1444px;
+    height: 68px;
+}
+.dashboard-umkm {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1259px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Inter;
+}
+
+/* end of Dashboard admin */ 
+
+/* Signup2 */
+
+.image-75-icon {
+    position: absolute;
+    top: -2px;
+    left: -3px;
+    width: 699px;
+    height: 1029px;
+    object-fit: cover;
+}
+.sign-up-2-child {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    background-color: rgba(69, 42, 6, 0.35);
+    width: 693px;
+    height: 1024px;
+}
+.savor-flavor-putih {
+    position: absolute;
+    top: 453px;
+    left: 27px;
+    width: 666px;
+    height: 155px;
+    object-fit: cover;
+}
+.sign-up-2-item {
+    position: absolute;
+    top: -2px;
+    left: 693px;
+    width: 747px;
+    height: 241px;
+}
+.masukdaftar {
+    position: absolute;
+    top: 100px;
+    left: 778px;
+    display: inline-block;
+    width: 552px;
+    height: 64px;
+}
+.email {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.masukkan-kata-sandi {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.masukkan-kembali-kata {
+    position: absolute;
+    top: 271px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.masuk-di-sini {
+    text-decoration: underline;
+}
+.punya-akun-masuk-container {
+    position: absolute;
+    top: 544px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.button-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 644px;
+    height: 96px;
+
+}
+.buat-akun {
+    position: absolute;
+    top: 33px;
+    left: 154px;
+    display: inline-block;
+    width: 336px;
+    height: 30px;
+}
+.button {
+    position: absolute;
+    top: 425px;
+    left: 0px;
+    width: 644px;
+    height: 96px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+}
+.form-email-register-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+}
+.galleofrancogmailcom {
+    position: absolute;
+    top: 15px;
+    left: 27px;
+    text-decoration: underline;
+    color: inherit;
+    display: inline-block;
+    width: 327px;
+    height: 32px;
+}
+.form-email-register {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+    font-size: 24px;
+    color: #000;
+}
+.div {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    display: inline-block;
+    width: 327px;
+    height: 32px;
+}
+.form-password-register {
+    position: absolute;
+    top: 192px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+    font-size: 24px;
+}
+.form-password-register1 {
+    position: absolute;
+    top: 192px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+    font-size: 24px;
+    color: #000;
+}
+.form-re-enter-password-registe {
+    position: absolute;
+    top: 325px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+    font-size: 24px;
+    color: #000;
+}
+.sign-up {
+    position: absolute;
+    top: 310px;
+    left: 754px;
+    width: 644px;
+    height: 600px;
+    text-align: left;
+    font-size: 32px;
+    color: #d06e2b;
+}
+.sign-up-2 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #fff;
+    font-family: Inter;
+}
+
+/* End of Signup2 */
+
+/* Gagal Masuk */
+
+.image-75-icon {
+    position: absolute;
+    top: -2px;
+    left: -3px;
+    width: 699px;
+    height: 1029px;
+    object-fit: cover;
+}
+.gagal-masuk-child {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    background-color: rgba(69, 42, 6, 0.35);
+    width: 693px;
+    height: 1024px;
+}
+.savor-flavor-putih {
+    position: absolute;
+    top: 453px;
+    left: 27px;
+    width: 666px;
+    height: 155px;
+    object-fit: cover;
+}
+.email {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.kata-sandi {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.daftar-di-sini {
+    text-decoration: underline;
+}
+.tidak-punya-akun-container {
+    position: absolute;
+    top: 452px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+    cursor: pointer;
+}
+.form-email-login-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 60px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+}
+.form-email-login {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+}
+.form-password-login-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+}
+.form-password-login {
+    position: absolute;
+    top: 192px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+}
+.button-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 644px;
+    height: 96px;
+}
+.masuk {
+    position: absolute;
+    top: 33px;
+    left: 154px;
+    display: inline-block;
+    width: 336px;
+    height: 30px;
+}
+.button {
+    position: absolute;
+    top: 338px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 96px;
+    text-align: center;
+    color: #fff;
+}
+.login {
+    position: absolute;
+    top: 366px;
+    left: 758px;
+    width: 644px;
+    height: 508px;
+}
+.gagal-masuk-item {
+    position: absolute;
+    top: -2px;
+    left: 693px;
+    width: 747px;
+    height: 241px;
+}
+.masukdaftar {
+    position: absolute;
+    top: 100px;
+    left: 778px;
+    font-size: 48px;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    width: 552px;
+    height: 64px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #fc0a0a;
+    width: 625px;
+    height: 111px;
+}
+.gagal-masuk1 {
+    position: absolute;
+    top: 24px;
+    left: 16.67px;
+    display: inline-block;
+    width: 559.5px;
+    height: 63px;
+}
+.icon-close-circle {
+    position: absolute;
+    height: 53.06%;
+    width: 9.33%;
+    top: 23.81%;
+    right: 13.53%;
+    bottom: 23.13%;
+    left: 77.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    width: 625px;
+    height: 111px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+}
+.lupa-kata-sandi {
+    position: absolute;
+    top: 874px;
+    left: 764px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+    cursor: pointer;
+}
+.gagal-masuk {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #ff8c00;
+    font-family: Inter;
+}
+
+/* End of gagal masuk */
+
+/* Lupa sandi */
+.image-75-icon {
+    position: absolute;
+    top: -2px;
+    left: -3px;
+    width: 699px;
+    height: 1029px;
+    object-fit: cover;
+}
+.lupa-sandi-child {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    background-color: rgba(69, 42, 6, 0.35);
+    width: 693px;
+    height: 1024px;
+}
+.savor-flavor-putih {
+    position: absolute;
+    top: 453px;
+    left: 27px;
+    width: 666px;
+    height: 155px;
+    object-fit: cover;
+}
+.lupa-sandi-item {
+    position: absolute;
+    top: -2px;
+    left: 693px;
+    width: 747px;
+    height: 241px;
+}
+.masukdaftar {
+    position: absolute;
+    top: 100px;
+    left: 778px;
+    display: inline-block;
+    width: 552px;
+    height: 64px;
+}
+.email {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+}
+.button-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 644px;
+    height: 96px;
+}
+.kirim {
+    position: absolute;
+    top: 33px;
+    left: 154px;
+    display: inline-block;
+    width: 336px;
+    height: 30px;
+}
+.button {
+    position: absolute;
+    top: 137px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #eb8a47;
+    width: 644px;
+    height: 96px;
+    text-align: center;
+    color: #fff;
+}
+.form-re-enter-password-registe-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+}
+.form-re-enter-password-registe {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+    cursor: pointer;
+}
+.reset-password {
+    position: absolute;
+    top: 399px;
+    left: 748px;
+    width: 644px;
+    height: 233px;
+    text-align: left;
+    font-size: 32px;
+    color: #d06e2b;
+}
+.lupa-sandi {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #fff;
+    font-family: Inter;
+}
+
